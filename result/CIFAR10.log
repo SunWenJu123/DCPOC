@@ -1,0 +1,85 @@
+Files already downloaded and verified
+Files already downloaded and verified
+feature already extracted
+reset dataset with prev_categories []
+==========	 task: 0	 categories: [0, 1] 	==========
+epoch: 10	 task: 0 	 category: 0 	 loss: 3.925398 	 posloss: 445.299561 	 negloss: 1.934714 	 kldloss: 51.289539 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 20	 task: 0 	 category: 0 	 loss: 2.750327 	 posloss: 292.810059 	 negloss: 3.093503 	 kldloss: 52.369133 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 30	 task: 0 	 category: 0 	 loss: 2.161739 	 posloss: 217.020920 	 negloss: 2.960431 	 kldloss: 53.523518 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 40	 task: 0 	 category: 0 	 loss: 1.863796 	 posloss: 179.423706 	 negloss: 2.851664 	 kldloss: 53.818043 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 50	 task: 0 	 category: 0 	 loss: 1.662513 	 posloss: 154.200928 	 negloss: 2.265110 	 kldloss: 54.301651 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 10	 task: 0 	 category: 1 	 loss: 4.047664 	 posloss: 462.170807 	 negloss: 1.301445 	 kldloss: 49.216732 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 20	 task: 0 	 category: 1 	 loss: 2.791591 	 posloss: 298.829498 	 negloss: 3.242520 	 kldloss: 50.514805 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 30	 task: 0 	 category: 1 	 loss: 2.214204 	 posloss: 224.598953 	 negloss: 3.168157 	 kldloss: 52.216702 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 40	 task: 0 	 category: 1 	 loss: 1.941078 	 posloss: 190.884644 	 negloss: 2.599863 	 kldloss: 52.394421 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 50	 task: 0 	 category: 1 	 loss: 1.750530 	 posloss: 166.100586 	 negloss: 1.962410 	 kldloss: 52.464775 	 maxloss: 0.000000 	 pseudoloss: nan
+Accuracy for 1 task(s): 	 [Class-IL]: 97.15 % 	 [Task-IL]: 97.15 %
+Files already downloaded and verified
+Files already downloaded and verified
+feature already extracted
+reset dataset with prev_categories [0, 1]
+==========	 task: 1	 categories: [2, 3] 	==========
+epoch: 10	 task: 1 	 category: 2 	 loss: 4.193676 	 posloss: 472.712494 	 negloss: 5.376342 	 kldloss: 53.631001 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 20	 task: 1 	 category: 2 	 loss: 2.947998 	 posloss: 310.947144 	 negloss: 9.266786 	 kldloss: 53.779037 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 30	 task: 1 	 category: 2 	 loss: 2.409946 	 posloss: 239.748901 	 negloss: 10.100153 	 kldloss: 54.636700 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 40	 task: 1 	 category: 2 	 loss: 2.119113 	 posloss: 203.724106 	 negloss: 9.665158 	 kldloss: 55.163963 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 50	 task: 1 	 category: 2 	 loss: 1.872699 	 posloss: 173.295532 	 negloss: 8.404316 	 kldloss: 55.358601 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 10	 task: 1 	 category: 3 	 loss: 4.270689 	 posloss: 488.821014 	 negloss: 3.392059 	 kldloss: 50.204887 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 20	 task: 1 	 category: 3 	 loss: 2.928111 	 posloss: 309.712006 	 negloss: 9.221195 	 kldloss: 51.829140 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 30	 task: 1 	 category: 3 	 loss: 2.413884 	 posloss: 241.316101 	 negloss: 10.276017 	 kldloss: 52.945499 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 40	 task: 1 	 category: 3 	 loss: 2.068631 	 posloss: 198.839310 	 negloss: 9.961596 	 kldloss: 53.722286 	 maxloss: 0.000000 	 pseudoloss: nan
+epoch: 50	 task: 1 	 category: 3 	 loss: 1.909405 	 posloss: 178.962128 	 negloss: 9.007346 	 kldloss: 53.775864 	 maxloss: 0.000000 	 pseudoloss: nan
+Accuracy for 2 task(s): 	 [Class-IL]: 91.55 % 	 [Task-IL]: 94.55 %
+Files already downloaded and verified
+Files already downloaded and verified
+feature already extracted
+reset dataset with prev_categories [0, 1, 2, 3]
+==========	 task: 2	 categories: [4, 5] 	==========
+epoch: 10	 task: 2 	 category: 4 	 loss: 4.644344 	 posloss: 414.346252 	 negloss: 1.684505 	 kldloss: 51.092625 	 maxloss: 111.572487 	 pseudoloss: 9.165099
+epoch: 20	 task: 2 	 category: 4 	 loss: 2.777300 	 posloss: 260.723145 	 negloss: 5.702553 	 kldloss: 52.319595 	 maxloss: 31.732037 	 pseudoloss: 2.360854
+epoch: 30	 task: 2 	 category: 4 	 loss: 2.228142 	 posloss: 208.426025 	 negloss: 6.980233 	 kldloss: 52.187439 	 maxloss: 14.572134 	 pseudoloss: 1.265281
+epoch: 40	 task: 2 	 category: 4 	 loss: 1.856049 	 posloss: 170.786469 	 negloss: 6.411294 	 kldloss: 51.981377 	 maxloss: 5.464440 	 pseudoloss: 0.875801
+epoch: 50	 task: 2 	 category: 4 	 loss: 1.683563 	 posloss: 152.093231 	 negloss: 5.533478 	 kldloss: 51.561951 	 maxloss: 3.611062 	 pseudoloss: 0.734111
+epoch: 10	 task: 2 	 category: 5 	 loss: 5.416447 	 posloss: 487.145905 	 negloss: 4.445925 	 kldloss: 59.650608 	 maxloss: 114.210838 	 pseudoloss: 18.059111
+epoch: 20	 task: 2 	 category: 5 	 loss: 3.757351 	 posloss: 351.209076 	 negloss: 6.991847 	 kldloss: 56.552223 	 maxloss: 54.472775 	 pseudoloss: 6.659217
+epoch: 30	 task: 2 	 category: 5 	 loss: 2.743041 	 posloss: 261.734436 	 negloss: 7.437237 	 kldloss: 56.835476 	 maxloss: 19.404634 	 pseudoloss: 2.182771
+epoch: 40	 task: 2 	 category: 5 	 loss: 2.281171 	 posloss: 215.354156 	 negloss: 6.855640 	 kldloss: 57.298088 	 maxloss: 8.689358 	 pseudoloss: 1.038902
+epoch: 50	 task: 2 	 category: 5 	 loss: 2.151105 	 posloss: 198.867020 	 negloss: 7.156380 	 kldloss: 56.341114 	 maxloss: 7.592198 	 pseudoloss: 2.490512
+Accuracy for 3 task(s): 	 [Class-IL]: 81.75 % 	 [Task-IL]: 93.32 %
+Files already downloaded and verified
+Files already downloaded and verified
+feature already extracted
+reset dataset with prev_categories [0, 1, 2, 3, 4, 5]
+==========	 task: 3	 categories: [6, 7] 	==========
+epoch: 10	 task: 3 	 category: 6 	 loss: 4.434644 	 posloss: 404.297394 	 negloss: 0.387644 	 kldloss: 56.679913 	 maxloss: 90.971771 	 pseudoloss: 11.049457
+epoch: 20	 task: 3 	 category: 6 	 loss: 2.846194 	 posloss: 273.200043 	 negloss: 1.047418 	 kldloss: 55.004520 	 maxloss: 27.842094 	 pseudoloss: 3.140409
+epoch: 30	 task: 3 	 category: 6 	 loss: 2.194947 	 posloss: 210.693054 	 negloss: 1.395105 	 kldloss: 54.090038 	 maxloss: 9.181695 	 pseudoloss: 2.239371
+epoch: 40	 task: 3 	 category: 6 	 loss: 2.001626 	 posloss: 188.681152 	 negloss: 1.367130 	 kldloss: 54.036819 	 maxloss: 7.728913 	 pseudoloss: 1.343285
+epoch: 50	 task: 3 	 category: 6 	 loss: 1.656531 	 posloss: 152.752625 	 negloss: 1.162433 	 kldloss: 53.425461 	 maxloss: 2.116287 	 pseudoloss: 0.573396
+epoch: 10	 task: 3 	 category: 7 	 loss: 5.463522 	 posloss: 482.880554 	 negloss: 0.397773 	 kldloss: 55.724644 	 maxloss: 134.112640 	 pseudoloss: 17.247723
+epoch: 20	 task: 3 	 category: 7 	 loss: 3.671175 	 posloss: 343.711609 	 negloss: 1.170310 	 kldloss: 56.123863 	 maxloss: 57.172962 	 pseudoloss: 7.602813
+epoch: 30	 task: 3 	 category: 7 	 loss: 2.448061 	 posloss: 238.530457 	 negloss: 1.348226 	 kldloss: 56.469017 	 maxloss: 12.717576 	 pseudoloss: 1.556657
+epoch: 40	 task: 3 	 category: 7 	 loss: 2.397665 	 posloss: 228.334229 	 negloss: 1.818166 	 kldloss: 55.016075 	 maxloss: 16.104303 	 pseudoloss: 3.649255
+epoch: 50	 task: 3 	 category: 7 	 loss: 1.913841 	 posloss: 180.757553 	 negloss: 1.424546 	 kldloss: 55.092361 	 maxloss: 3.775856 	 pseudoloss: 1.278568
+Accuracy for 4 task(s): 	 [Class-IL]: 78.45 % 	 [Task-IL]: 93.88 %
+Files already downloaded and verified
+Files already downloaded and verified
+feature already extracted
+reset dataset with prev_categories [0, 1, 2, 3, 4, 5, 6, 7]
+==========	 task: 4	 categories: [8, 9] 	==========
+epoch: 10	 task: 4 	 category: 8 	 loss: 4.078868 	 posloss: 397.352844 	 negloss: 2.936813 	 kldloss: 51.767937 	 maxloss: 53.128136 	 pseudoloss: 11.293032
+epoch: 20	 task: 4 	 category: 8 	 loss: 3.066808 	 posloss: 302.387299 	 negloss: 3.949338 	 kldloss: 50.849854 	 maxloss: 25.740650 	 pseudoloss: 3.743198
+epoch: 30	 task: 4 	 category: 8 	 loss: 2.157479 	 posloss: 211.777405 	 negloss: 3.095666 	 kldloss: 52.131145 	 maxloss: 5.602031 	 pseudoloss: 1.441602
+epoch: 40	 task: 4 	 category: 8 	 loss: 1.858484 	 posloss: 176.560074 	 negloss: 2.394541 	 kldloss: 52.397362 	 maxloss: 2.463635 	 pseudoloss: 0.750598
+epoch: 50	 task: 4 	 category: 8 	 loss: 1.672449 	 posloss: 154.914352 	 negloss: 2.178479 	 kldloss: 52.461987 	 maxloss: 1.686899 	 pseudoloss: 0.525144
+epoch: 10	 task: 4 	 category: 9 	 loss: 4.095715 	 posloss: 406.917633 	 negloss: 1.971938 	 kldloss: 48.042549 	 maxloss: 56.156418 	 pseudoloss: 7.285827
+epoch: 20	 task: 4 	 category: 9 	 loss: 2.848163 	 posloss: 284.123505 	 negloss: 3.396893 	 kldloss: 49.203041 	 maxloss: 21.025394 	 pseudoloss: 2.522700
+epoch: 30	 task: 4 	 category: 9 	 loss: 2.153159 	 posloss: 211.861526 	 negloss: 3.529446 	 kldloss: 49.837250 	 maxloss: 7.015878 	 pseudoloss: 1.350494
+epoch: 40	 task: 4 	 category: 9 	 loss: 1.888771 	 posloss: 182.553253 	 negloss: 2.609730 	 kldloss: 50.351646 	 maxloss: 3.526304 	 pseudoloss: 0.818586
+epoch: 50	 task: 4 	 category: 9 	 loss: 1.701863 	 posloss: 160.847702 	 negloss: 2.487421 	 kldloss: 50.380280 	 maxloss: 2.078119 	 pseudoloss: 0.624561
+Accuracy for 5 task(s): 	 [Class-IL]: 77.71 % 	 [Task-IL]: 95.16 %
+Accuracy for 1 task(s): 	 [Class-IL]: 97.15 % 	 [Task-IL]: 97.15 %
+Accuracy for 2 task(s): 	 [Class-IL]: 91.55 % 	 [Task-IL]: 94.55 %
+Accuracy for 3 task(s): 	 [Class-IL]: 81.75 % 	 [Task-IL]: 93.32 %
+Accuracy for 4 task(s): 	 [Class-IL]: 78.45 % 	 [Task-IL]: 93.88 %
+Accuracy for 5 task(s): 	 [Class-IL]: 77.71 % 	 [Task-IL]: 95.16 %
